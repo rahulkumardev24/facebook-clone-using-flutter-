@@ -1,3 +1,5 @@
+import 'package:facebook_clone/Screen/Tabs/friends_screen.dart';
+import 'package:facebook_clone/Screen/Tabs/store_screen.dart';
 import 'package:facebook_clone/Screen/Tabs/video_screen.dart';
 import 'package:facebook_clone/Screen/dash_board_screen.dart';
 import 'package:facebook_clone/Screen/splash_screen.dart';
@@ -41,6 +43,13 @@ class MyApp extends StatelessWidget {
 /// create user video post cars (same as user image post so copy)
 ///
 ///  STEP 5 =>
+///  Friends screen => DONE
+///
+/// STEP 6
+/// Store Screen => DONE
+///
+///
+///
 ///
 ///
 ///
