@@ -1,3 +1,5 @@
+import 'package:facebook_clone/Screen/Tabs/video_screen.dart';
+import 'package:facebook_clone/Screen/dash_board_screen.dart';
 import 'package:facebook_clone/Screen/splash_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -15,15 +17,13 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
-           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home:  SplashScreen(),
+      home: DashBoardScreen(),
     );
   }
 }
-
-
 
 ///_________________________________________ FACEBOOK CLONE _________________________________________________//
 /// PROJECT STEP
@@ -35,6 +35,12 @@ class MyApp extends StatelessWidget {
 /// DASH BOARD SCREEN => DONE
 /// STEP 3
 /// Home screen => DONE
+/// STEP 4
+/// VIDEO SCREEN  => DONE
+/// past some video file in assent folder
+/// create user video post cars (same as user image post so copy)
+///
+///  STEP 5 =>
 ///
 ///
 ///
