@@ -1,4 +1,6 @@
 import 'package:facebook_clone/Screen/Tabs/friends_screen.dart';
+import 'package:facebook_clone/Screen/Tabs/notifaction_screen.dart';
+import 'package:facebook_clone/Screen/Tabs/profile_screen.dart';
 import 'package:facebook_clone/Screen/Tabs/store_screen.dart';
 import 'package:facebook_clone/Screen/Tabs/video_screen.dart';
 import 'package:facebook_clone/Screen/dash_board_screen.dart';
@@ -22,12 +24,12 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: DashBoardScreen(),
+      home: const SplashScreen(),
     );
   }
 }
 
-///_________________________________________ FACEBOOK CLONE _________________________________________________//
+///_________________________________________  FACEBOOK CLONE  _________________________________________________//
 /// PROJECT STEP
 /// STEP 1
 /// splash screen => Done
@@ -47,6 +49,14 @@ class MyApp extends StatelessWidget {
 ///
 /// STEP 6
 /// Store Screen => DONE
+///
+/// STEP 7
+/// Notification Screen => DONE
+///
+/// STEP 8
+/// PROFILE SCREEN => DONE
+///
+/// _______________________________________________ FINAL CHECK THE FACEBOOK CLONE _________________________ ///
 ///
 ///
 ///
