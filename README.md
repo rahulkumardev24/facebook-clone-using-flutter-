@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+   <img src = "https://github.com/rahulkumardev24/facebook-clone-using-flutter-/blob/master/Screenshot_20241217_161359.png" height = 500 />
+  <img src = "https://github.com/rahulkumardev24/facebook-clone-using-flutter-/blob/master/Screenshot_20241215_235223.png" height = 500 />
+   <img src = "https://github.com/rahulkumardev24/facebook-clone-using-flutter-/blob/master/Screenshot_20241215_235242.png" height = 500 />
+   <img src = "https://github.com/rahulkumardev24/facebook-clone-using-flutter-/blob/master/Screenshot_20241217_130200.png" height = 500 />
+   <img src = "https://github.com/rahulkumardev24/facebook-clone-using-flutter-/blob/master/Screenshot_20241217_130211.png" height = 500 />
+   <img src = "https://github.com/rahulkumardev24/facebook-clone-using-flutter-/blob/master/Screenshot_20241217_130221.png" height = 500 />
+  <img src = "https://github.com/rahulkumardev24/facebook-clone-using-flutter-/blob/master/Screenshot_20241217_130231.png" height = 500 />
+</div>
